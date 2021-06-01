@@ -6,6 +6,7 @@ nav:
   - Introduction: index.md
   - Basic Usage: basic-usage.md
   - Commands: cli.md
+  - Features: features.md
 
 markdown_extensions:
   - toc:
