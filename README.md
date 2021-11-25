@@ -2,7 +2,7 @@
 
 Official Website - [Flask-Meld.dev](https://www.flask-meld.dev)
 
-Project inspiration (outdated examples) - [Ditch Javascript Frameworks For Pure Python Joy](https://michaelabrahamsen.com/posts/flask-meld-ditch-javascript-frameworks-for-pure-python-joy/) 
+Project inspiration (outdated examples) - [Ditch Javascript Frameworks For Pure Python Joy](https://michaelabrahamsen.com/posts/flask-meld-ditch-javascript-frameworks-for-pure-python-joy/)
 
 Join the community on Discord - https://discord.gg/DMgSwwdahN
 
