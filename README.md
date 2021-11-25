@@ -79,8 +79,6 @@ This sets up the application and initializes Flask-Meld.
             {% meld 'counter' %}
         {% endblock %}
         </div>
-        <style>
-        </style>
     </body>
 </html>
 ```
